@@ -34,10 +34,11 @@ void loop() {
     char ch = check.charAt(0);
     if(ch =='0'){
       lock = true;
-    }else{
+    }else if(ch == '1'){
       lock = false;
     }
   }
+
   //will need to continuoudly check the value returned by the c# program to tell weather to unlock the box, or keep it locked 
   // put your main code here, to run repeatedly:
   if ( lock == false ){
