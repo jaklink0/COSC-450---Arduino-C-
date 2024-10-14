@@ -1,0 +1,15 @@
+C:\Users\Joe\Documents\College\COSC 450 - Paradigms\Carduino Repo\C#_Practice\C#_Practice\bin\Debug\net8.0\C#_Practice.exe
+C:\Users\Joe\Documents\College\COSC 450 - Paradigms\Carduino Repo\C#_Practice\C#_Practice\bin\Debug\net8.0\C#_Practice.deps.json
+C:\Users\Joe\Documents\College\COSC 450 - Paradigms\Carduino Repo\C#_Practice\C#_Practice\bin\Debug\net8.0\C#_Practice.runtimeconfig.json
+C:\Users\Joe\Documents\College\COSC 450 - Paradigms\Carduino Repo\C#_Practice\C#_Practice\bin\Debug\net8.0\C#_Practice.dll
+C:\Users\Joe\Documents\College\COSC 450 - Paradigms\Carduino Repo\C#_Practice\C#_Practice\bin\Debug\net8.0\C#_Practice.pdb
+C:\Users\Joe\Documents\College\COSC 450 - Paradigms\Carduino Repo\C#_Practice\C#_Practice\obj\Debug\net8.0\C#_Practice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Joe\Documents\College\COSC 450 - Paradigms\Carduino Repo\C#_Practice\C#_Practice\obj\Debug\net8.0\C#_Practice.AssemblyInfoInputs.cache
+C:\Users\Joe\Documents\College\COSC 450 - Paradigms\Carduino Repo\C#_Practice\C#_Practice\obj\Debug\net8.0\C#_Practice.AssemblyInfo.cs
+C:\Users\Joe\Documents\College\COSC 450 - Paradigms\Carduino Repo\C#_Practice\C#_Practice\obj\Debug\net8.0\C#_Practice.csproj.CoreCompileInputs.cache
+C:\Users\Joe\Documents\College\COSC 450 - Paradigms\Carduino Repo\C#_Practice\C#_Practice\obj\Debug\net8.0\C#_Practice.sourcelink.json
+C:\Users\Joe\Documents\College\COSC 450 - Paradigms\Carduino Repo\C#_Practice\C#_Practice\obj\Debug\net8.0\C#_Practice.dll
+C:\Users\Joe\Documents\College\COSC 450 - Paradigms\Carduino Repo\C#_Practice\C#_Practice\obj\Debug\net8.0\refint\C#_Practice.dll
+C:\Users\Joe\Documents\College\COSC 450 - Paradigms\Carduino Repo\C#_Practice\C#_Practice\obj\Debug\net8.0\C#_Practice.pdb
+C:\Users\Joe\Documents\College\COSC 450 - Paradigms\Carduino Repo\C#_Practice\C#_Practice\obj\Debug\net8.0\C#_Practice.genruntimeconfig.cache
+C:\Users\Joe\Documents\College\COSC 450 - Paradigms\Carduino Repo\C#_Practice\C#_Practice\obj\Debug\net8.0\ref\C#_Practice.dll
