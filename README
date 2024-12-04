@@ -1,0 +1,4 @@
+/* This project is designed to be run on an arduino that is hooked up to a computer. 
+It requires the 450_Project_arduinoCode file to be flashed to the arduino.
+it requires that the Carduino code to be run on the computer using C#. 
+This can be done by running it directly through visual studio.
